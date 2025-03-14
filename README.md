@@ -11,5 +11,7 @@ Al completar este proyecto, habré desarrollado las siguientes habilidades:
 - Uso de **Git y GitHub** para control de versiones.
 - Manejo de repositorios y confirmaciones (`commits`).
 
+git commit -m "Agregado README.md con introducción del proyecto"
+
 ## Reflexión
 Este proyecto me ha permitido reforzar mis conocimientos en desarrollo web y mejorar mi flujo de trabajo con Git. Ha sido un gran punto de partida para futuros proyectos más avanzados.
